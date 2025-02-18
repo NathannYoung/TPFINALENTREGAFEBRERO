@@ -33,7 +33,7 @@ const offsetYPiedra = -100 // Distancia entre cada piedra, si se aumenta el valo
 
 function preload() {
     // funcion para precargar todas las imagenes
-    fondoPrincipal = loadImage('img/fondoPrincipal.PNG')
+    fondoPrincipal = loadImage('img/fondoPrincipal.png')
     botonImg = loadImage('img/libro.png')
     desierto = loadImage('img/desierto.png')
     Jesus = loadImage('img/Jesus.png')
